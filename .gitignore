@@ -1,0 +1,4 @@
+ignored
+**/config.php
+ressources/php-graph-sdk-5.0.0/**
+ressources/wordList.php
