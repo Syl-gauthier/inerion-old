@@ -1,0 +1,211 @@
+[{
+        "titre": "Liste 1 : se repérer dans le temps",
+        "vocList": [
+            {
+                "eng": "morning",
+                "kor": "아침",
+                "fr": "matin"
+        },
+            {
+                "eng": "afternoon",
+                "kor": "오후",
+                "fr": "soir"
+        },
+            {
+                "eng": "evening",
+                "kor": "저녁",
+                "fr": "soir"
+        },
+            {
+                "eng": "night",
+                "kor": "밤",
+                "fr": "nuit"
+        },
+            {
+                "eng": "day",
+                "kor": "일",
+                "fr": "jour"
+        },
+            {
+                "eng": "before",
+                "kor": "전에",
+                "fr": "avant"
+        },
+            {
+                "eng": "after",
+                "kor": "후",
+                "fr": "après"
+        },
+            {
+                "eng": "during",
+                "kor": "-때 / 동안",
+                "fr": "pendant"
+        },
+            {
+                "eng": "there is (in the past)",
+                "kor": "전",
+                "fr": "il y a (dans le passé)"
+        },
+            {
+                "eng": "since",
+                "kor": "부터",
+                "fr": "depuis"
+        },
+            {
+                "eng": "then / after",
+                "kor": "그때",
+                "fr": "ensuite"
+        },
+            {
+                "eng": "to begin",
+                "kor": "시작하다",
+                "fr": "commencer"
+        },
+            {
+                "eng": "to end",
+                "kor": "끋나다",
+                "fr": "finir"
+        },
+            {
+                "eng": "beginning",
+                "kor": "시작",
+                "fr": "début"
+        },
+            {
+                "eng": "end",
+                "kor": "끝",
+                "fr": "fin"
+        },
+            {
+                "eng": "to arrive",
+                "kor": "도착하다",
+                "fr": "arriver"
+        },
+            {
+                "eng": "to leave",
+                "kor": "",
+                "fr": "partir"
+        },
+            {
+                "eng": "long (time)",
+                "kor": "길",
+                "fr": "longtemps"
+        },
+            {
+                "eng": "soon",
+                "kor": "곧",
+                "fr": "bientôt"
+        },
+            {
+                "eng": "to wait",
+                "kor": "기다리다",
+                "fr": "attendre"
+        }
+    ]
+},
+{
+        "titre": "Liste 2 : location d'appartement",
+        "vocList": [
+            {
+                "eng": "morning",
+                "kor": "아침",
+                "fr": "matin",
+                "checked": true
+        },
+            {
+                "eng": "afternoon",
+                "kor": "오후",
+                "fr": "soir"
+        },
+            {
+                "eng": "evening",
+                "kor": "저녁",
+                "fr": "soir"
+        },
+            {
+                "eng": "night",
+                "kor": "밤",
+                "fr": "nuit"
+        },
+            {
+                "eng": "day",
+                "kor": "일",
+                "fr": "jour"
+        },
+            {
+                "eng": "before",
+                "kor": "전에",
+                "fr": "avant"
+        },
+            {
+                "eng": "after",
+                "kor": "후",
+                "fr": "après"
+        },
+            {
+                "eng": "during",
+                "kor": "-때 / 동안",
+                "fr": "pendant"
+        },
+            {
+                "eng": "there is (in the past)",
+                "kor": "전",
+                "fr": "il y a (dans le passé)"
+        },
+            {
+                "eng": "since",
+                "kor": "부터",
+                "fr": "depuis"
+        },
+            {
+                "eng": "then / after",
+                "kor": "그때",
+                "fr": "ensuite"
+        },
+            {
+                "eng": "to begin",
+                "kor": "시작하다",
+                "fr": "commencer"
+        },
+            {
+                "eng": "to end",
+                "kor": "끋나다",
+                "fr": "finir"
+        },
+            {
+                "eng": "beginning",
+                "kor": "시작",
+                "fr": "début"
+        },
+            {
+                "eng": "end",
+                "kor": "끝",
+                "fr": "fin"
+        },
+            {
+                "eng": "to arrive",
+                "kor": "도착하다",
+                "fr": "arriver"
+        },
+            {
+                "eng": "to leave",
+                "kor": "",
+                "fr": "partir"
+        },
+            {
+                "eng": "long (time)",
+                "kor": "길",
+                "fr": "longtemps"
+        },
+            {
+                "eng": "soon",
+                "kor": "곧",
+                "fr": "bientôt"
+        },
+            {
+                "eng": "to wait",
+                "kor": "기다리다",
+                "fr": "attendre"
+        }
+    ]
+}]

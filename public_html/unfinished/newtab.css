@@ -1,0 +1,75 @@
+body
+{
+	background-color: #EFF7FF;
+}
+
+header, nav, section, footer
+{
+	margin: 10px;
+	padding: 5px;
+	background-color: #B87A76;
+	border: 1px #471A15 solid;
+	border-radius: 10px;
+	color: #471A15;
+}
+
+header{
+	display: flex;
+	text-align: right;
+}
+
+aside
+{
+	text-align: left;
+	width: 300px;
+	border: 1px #471A15 solid;
+	border-radius: 10px;
+	padding: 10px 5px 5px 5px;
+}
+
+h1{
+	width: 100%;
+	text-align: center;
+	margin: 3px;
+}
+
+h2{
+	display: block;
+	margin: 10px;
+}
+
+#main{
+	display: flex;
+}
+
+nav
+{
+	width: 20%;
+	min-width: 150px;
+}
+
+section 
+{
+	width: 100%;
+}
+
+#favtable{
+	display: flex;
+}
+
+article
+{	
+	background-color: #A4D7F8;
+	border: 1px #010E29 solid;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 15px;	
+	width: 25%;
+	height: 150px;
+	overflow: hidden;
+	text-align: justify;
+}
+
+section h2{
+	width: 100%;
+}

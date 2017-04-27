@@ -1,0 +1,48 @@
+body {
+    background: lightblue;
+}
+
+.carteVisite {
+    position: relative;
+    padding: 20px;
+    display: block;
+    border: 2px solid darkslategray;
+    width: 425px;
+    height: 250px;
+    box-shadow: 7px 5px 3px rgba(0, 0, 0, 0.3);
+    margin: auto;
+    background: white;
+    border-radius: 4px;
+}
+
+.carteVisite .titre {
+    position: absolute  ;
+    top: 50px;
+    left: 175px;
+}
+
+.carteVisite .idPic {
+    display: inline-block;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 5    px;
+    height: 150px;
+}
+
+.carteVisite h1 {
+    margin: 0px;
+    font-size: 32px;
+}
+
+.carteVisite h2 {
+    font-size: 18px;
+    margin: 0px;
+    font-weight: normal;
+}
+
+.carteVisite h3 {
+    margin: 0px;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 18px;
+}
